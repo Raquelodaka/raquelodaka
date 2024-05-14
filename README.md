@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ola!! 
+
+Sou Raquel, uma pessoa que vem se apaixonando mais por dados e tem um pé nas paixões por assuntos juridicos =D.
+
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelodaka&theme=light" />
