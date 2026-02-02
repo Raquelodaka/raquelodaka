@@ -21,5 +21,5 @@ Manipulação de dados com Python, Pandas e NumPy
 
 Consultas em BigQuery e SQL
 
-📌 Estou sempre buscando aprender mais e encarar novos desafios com dados, automação e métricas.
+📌 Busco sempre aprender mais o que me imulsiona a querer cada vez mais encarar mais desafios.
 
