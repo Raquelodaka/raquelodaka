@@ -7,7 +7,7 @@ Aqui no meu Git tem alguns projetos, mas ainda não estão todos os que eu já f
 
 Atuei como Cientista de Dados (jan/2023 – jul/2024) e atualmente atuo como Analista de Dados (ago/2024 – presente).
 
-### O que eu faço bem e sempre procuro me desenvolver cada mais mais em meu dia a dia 
+### O que eu faço bem e sempre procuro me desenvolver cada vez mais em meu dia a dia 
 - Análise exploratória e geração de insights
 - Modelagem e validação de modelos de Machine Learning (scikit-learn)
 - Visualização de dados com matplotlib, seaborn e afins
