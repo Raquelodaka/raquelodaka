@@ -1,22 +1,25 @@
-### Ola!! 
+## Olá, prazer! Me chamo Raquel, seja bem-vindo(a) 👋
 
-Sou Raquel, uma pessoa que vem se apaixonando mais por dados e tem um pé nas paixões por assuntos juridicos =D.
+👩‍💻 Cientista de Dados | Analista de Dados
 
+Sou apaixonada por dados e adoro transformar números em histórias e decisões.
+Aqui no meu Git tem alguns projetos, mas ainda não estão todos os que eu já fiz (sabe como é… a vida corrida de mãe mulher da TI 😂).
 
+Atuei como Cientista de Dados (jan/2023 – jul/2024) e atualmente atuo como Analista de Dados (ago/2024 – presente).
 
+O que eu faço bem e sempre procuro me desenvolver cada mais mais em meu dia a dia 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelodaka&theme=light" />
-<!--
-**Raquelodaka/raquelodaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Análise exploratória e geração de insights
 
-Here are some ideas to get you started:
+Modelagem e validação de modelos de Machine Learning (scikit-learn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visualização de dados com matplotlib, seaborn e afins
+
+Dashboards em Looker e Power BI
+
+Manipulação de dados com Python, Pandas e NumPy
+
+Consultas em BigQuery e SQL
+
+📌 Estou sempre buscando aprender mais e encarar novos desafios com dados, automação e métricas.
+
